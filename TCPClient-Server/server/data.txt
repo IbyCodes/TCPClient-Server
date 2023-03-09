@@ -1,0 +1,11 @@
+THIS is a test file!
+This can be replaced with any text!
+This file is currently located in the server directory.
+Lets do some testing.
+Lets make sure this test can send numbers: 1232312321321
+Lets also make sure it can send special characters: $#@!@#@!&&*
+Lastly, can it send spaces in the document:
+
+
+
+If you read all 7 lines followed by 3 empty lines, then that means the file transfer was successful!
